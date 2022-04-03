@@ -2,183 +2,131 @@
     {
         "name" :  "Drafter",
         "description" : "Mini Drafter for engineering drawing",
-        "img" : "./public/drafter.jpg",
-        "original_price":"300",
-        "price" : "100"
+        "img" : "./public/drafter.jpg"
     },
     {
         "name" :  "Calculator",
         "description" : "Multipurpose calculator for BEE, EM and Mathematics",
-        "img" : "./public/calculator.jpg",
-        "original_price":"1000",
-        "price" : "400"
+        "img" : "./public/calculator.jpg"
     },
     {
         "name" :  "Advanced engineering mathematics iyengar",
         "description" : "A book for someone",
-        "img" : "./public/Advanced_engineering_mathematics_iyengar.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/Advanced_engineering_mathematics_iyengar.jpg"
     },
     {
         "name" :  "Basic electronic and linear circuits NN bhargava",
         "description" : "Prescribed book for Basic Electronic engineering",
-        "img" : "./public/Basic electronic and linear circuits nn bhargava.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/Basic electronic and linear circuits nn bhargava.jpg"
     },
     {
         "name" :  "Digital Logic Design MC graw Hill",
         "description" : "Prescribed book for Digital Logic Design",
-        "img" : "./public/DLD_mc_graw_hill.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/DLD_mc_graw_hill.jpg"
     },
     {
         "name" :  "Discrete mathematics for computer scientists and mathematicians",
         "description" : "Prescribed book for Discrete Matematics, CSE",
-        "img" : "./public/Discrete mathematics for computer scientists and mathematicians 2nd edition Network analysis 3rd edition Me van valkenburg.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/Discrete mathematics for computer scientists and mathematicians 2nd edition Network analysis 3rd edition Me van valkenburg.jpg"
     },
     {
         "name" :  "Electronic Devices and Circuits S Salivahanan and N Suresh Kumar",
         "description" : "Prescribed book for Basic electronics engineering",
-        "img" : "./public/Electronic Devices and Circuits( S Salivahanan and N Suresh Kumar).jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/Electronic Devices and Circuits( S Salivahanan and N Suresh Kumar).jpg"
     },
     {
         "name" :  "Introduction to environmental engineering and science gilbert masters",
         "description" : "Cousre book for Environmental Engineering",
-        "img" : "./public/Introduction to environmental engineering and science gilbert masters.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/Introduction to environmental engineering and science gilbert masters.jpg"
     },
     {
         "name" :  "Mathematics BS grewal",
         "description" : "Prescribed book for M1 and M2",
-        "img" : "./public/Mathematics BS grewal 44th edn.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/Mathematics BS grewal 44th edn.jpg"
     },
     {
         "name" :  "Practical world of C++(Sumita Arora)",
         "description" : "Prescribed book for Problem Solving and computer programming",
-        "img" : "./public/Practical world of C++(Sumita Arora).jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/Practical world of C++(Sumita Arora).jpg"
     },
     {
         "name" :  "Unix environment richard pearson",
         "description" : "Presribed book for Unix",
-        "img" : "./public/Unix_environment_richard_pearson.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/Unix_environment_richard_pearson.jpg"
     },
     {
         "name" :  "Basic Electrical Engineering VN Mittal",
         "description" : "Prescribed book for b=Basic electrical engineering",
-        "img" : "./public/basic_electrical_engineering_VN_Mittal.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/basic_electrical_engineering_VN_Mittal.jpg"
     },
     {
         "name" :  "computer science with c++ 11 sumita arora",
         "description" : "Prescribed bok for PSCP",
-        "img" : "./public/computer science with c++ 11 sumita arora.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/computer science with c++ 11 sumita arora.jpg"
     },
     {
         "name" :  "Electrical and electronic technology huges",
         "description" : "Prescribed book for Basic Eletronic Engineering",
-        "img" : "./public/electrical and electronic technology huges.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/electrical and electronic technology huges.jpg"
     },
     {
         "name" :  "Engineer physics RKgupta SLgupta",
         "description" : "Prescribed book for Physics",
-        "img" : "./public/engineer_physics_RKgupta_SLgupta.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/engineer_physics_RKgupta_SLgupta.jpg"
     },
     {
         "name" :  "engineering mechanics statics and dynamics ak tayal",
         "description" : "Prescribed book for Engineering Mechanics",
-        "img" : "./public/engineering mechanics statics and dynamics ak tayal.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/engineering mechanics statics and dynamics ak tayal.jpg"
     },
     {
         "name" :  "Engineering Mechanics Timoshenko",
         "description" : "Prescribed book for Engineering Mechanics",
-        "img" : "./public/engineering mechanics timoshenko.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/engineering mechanics timoshenko.jpg"
     },
     {
         "name" :  "Engineering drawing by nd bhatt",
         "description" : "Prescribed book for Engineering Drawing",
-        "img" : "./public/engineering_drawing_nd_bhatt.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/engineering_drawing_nd_bhatt.jpg"
     },
     {
         "name" :  "File Structure by michael folk",
         "description" : "Reference book for file structure",
-        "img" : "./public/file_structures_michael_folk_pearson.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/file_structures_michael_folk_pearson.jpg"
     },
     {
         "name" :  "IBM pc assembly language pearson",
         "description" : "Reference book for assembly language",
-        "img" : "./public/ibm_pc_assembly_language_pearson.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/ibm_pc_assembly_language_pearson.jpg"
     },
     {
         "name" :  "Elements of mechanical engineering by mathur and mehta",
         "description" : "Prescribed book for Basic Mechanical Engineering",
-        "img" : "./public/mathur and mehta, elements of mechanical engineering.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/mathur and mehta, elements of mechanical engineering.jpg"
     },
     {
         "name" :  "Network Analysis",
         "description" : "Prescribed book for basic electrical engineering",
-        "img" : "./public/network_analysis.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/network_analysis.jpg"
     },
     {
         "name" :  "Probability and Statistics",
         "description" : "Reference Book for Probability Statistics and queing theory",
-        "img" : "./public/probability_and_statistics_pearson.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/probability_and_statistics_pearson.jpg"
     },
     {
         "name" :  "Resnick Halliday",
         "description" : "Prescribed book for Physics",
-        "img" : "./public/resnick_halliday_walker_fundamentals_8th_edition.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/resnick_halliday_walker_fundamentals_8th_edition.jpg"
     },
     {
         "name" :  "Engineering Chemistry by Shashi Chawla",
         "description" : "Prescribed book for chemistry",
-        "img" : "./public/sashi_chawla.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/sashi_chawla.jpg"
     },
     {
         "name" :  "Walter Savitch",
         "description" : "Prescribed book for Problem solving and computer programming ",
-        "img" : "./public/walter savitch.jpg",
-        "original_price":"800",
-        "price" : "200"
+        "img" : "./public/walter savitch.jpg"
     }
 ]
